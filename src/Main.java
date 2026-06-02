@@ -6,7 +6,7 @@ public class Main {
 
         Tarefa tarefa1 = new Tarefa(
                 "Levantamento de Requisitos",
-                "Dâmaris",
+                "Fernando",
                 "10/06/2026");
 
         projeto.adicionarTarefa(tarefa1);
